@@ -2,3 +2,6 @@
 # ignoring images for now
 *.jpg
 *.JPG
+# ignore access controls
+.htaccess
+.htpasswd
