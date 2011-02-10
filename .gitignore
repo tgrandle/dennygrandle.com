@@ -1,0 +1,6 @@
+#global
+
+# ignore access controls
+.htaccess
+.htpasswd
+
